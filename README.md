@@ -1,2 +1,3 @@
 # wikipedia
-python bot
+python aiogram bot wikipedia online qidiruv boti
+
